@@ -11,7 +11,7 @@ body
 #container
 {
     width: 70%;
-    padding: 0em;
+    padding: 0;
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
@@ -42,6 +42,12 @@ body
 }
 #post
 {
-    background:white;
     padding: 1em;
+}
+#footer
+{
+    background: #777;
+    color: white;
+    padding: 0.5em;
+    text-align: center;
 }
